@@ -1,0 +1,1 @@
+{"name":"Local: E_Max","url":"c:\\Phitron\\C Programming\\Module-6\\E_Max.c","tests":[{"id":1681193042110,"input":"5\n1 8 5 7 5","output":"8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Phitron\\C Programming\\Module-6\\E_Max.c","group":"local","local":true}

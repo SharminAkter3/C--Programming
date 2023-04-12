@@ -1,0 +1,15 @@
+#include <stdio.h>
+int main()
+{
+    int i, N;
+    scanf("%d", &N);
+    for (i = 1; i <= N; i++)
+    {
+        printf("I Love Practice\n");
+        if (i == 1000)
+        {
+            break;
+        }
+    }
+    return 0;
+}
